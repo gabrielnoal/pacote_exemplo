@@ -1,3 +1,3 @@
-# pip_exemplo
+# choco_exemplo
 
-O objetivo deste projeto é criar um pequeno pacote em python instalavel via `pip`
+O objetivo deste projeto é criar um pequeno pacote em python instalavel via `choco`
